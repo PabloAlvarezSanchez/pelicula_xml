@@ -1,0 +1,19 @@
+<pelicula>
+    <titulo>Birght</titulo>
+    <año>2017</año>
+    <director>David Ayer</director>
+    <duracion>117 minutos</duracion>
+    <genero>Buddy Cop</genero>
+    <descripcion>película está protagonizada por Will Smith en el papel de un oficial  de policía del Departamento de Policía de 
+     Los Ángeles que se asocia con un oficial de policía novato del clan de los Orcos (Joel Edgerton) en un mundo en el que las 
+    criaturas humanas y míticas conviven paralelamente.</descripcion>
+    <reparto>
+        <artista>Will Smith</artista>
+        <artista>Joel Edgerton</artista>
+        <artista>Noomi Rapace</artista>
+        <artista>Lucy Fry</artista>
+        <artista>Édgar Ramírez</artista>
+         <artista>Ike Barinholtz</artista>
+        <valoracion>3,5 estrellas</valoracion>
+    </reparto>
+</pelicula>
